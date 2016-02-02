@@ -1,0 +1,32 @@
+{
+  "name": "crud-angular-resource",
+  "version": "1.0.0",
+  "description": "Typescript Angular Resource extension for interacting with RESTful APIs (including a PUT Action decriptor)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manuelreina/npm-crud-angular-resource.git"
+  },
+  "keywords": [
+    "angular",
+    "typescript",
+    "rest",
+    "crud"
+  ],
+  "author": {
+    "name": "Manuel Reina Aguilar",
+    "email": "manuel.reina@hotmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manuelreina/npm-crud-angular-resource/issues"
+  },
+  "homepage": "http://manuelreina.github.io/",
+  "dependencies": {
+    "angular-resource": "1.4.x"
+  }
+  
+}
